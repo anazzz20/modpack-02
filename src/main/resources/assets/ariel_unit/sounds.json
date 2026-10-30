@@ -1,0 +1,32 @@
+{
+  "moto_engine": {
+    "category": "neutral",
+    "sounds": [
+      "ariel_unit:moto_engine"
+    ]
+  },
+  "moto_rev": {
+    "category": "neutral",
+    "sounds": [
+      "ariel_unit:moto_rev"
+    ]
+  },
+  "moto_brake": {
+    "category": "neutral",
+    "sounds": [
+      "ariel_unit:moto_brake"
+    ]
+  },
+  "moto_crash": {
+    "category": "neutral",
+    "sounds": [
+      "ariel_unit:moto_crash"
+    ]
+  },
+  "moto_refuel": {
+    "category": "neutral",
+    "sounds": [
+      "ariel_unit:moto_refuel"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "ariel_unit:gas_can_10l"
+  },
+  {
+   "item": "ariel_unit:gas_can_10l"
+  }
+ ],
+ "result": {
+  "item": "ariel_unit:gas_can_20l"
+ }
+}

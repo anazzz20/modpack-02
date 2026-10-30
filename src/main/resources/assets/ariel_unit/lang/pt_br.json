@@ -1,0 +1,14 @@
+{
+  "item.ariel_unit.ariel_knife": "Faca de Combate do Ariel",
+  "item.ariel_unit.ariel_bow": "Arco Tatico do Ariel",
+  "item.ariel_unit.ariel_glock": "Glock do Ariel",
+  "item.ariel_unit.ariel_mask": "Mascara do Ariel",
+  "item.ariel_unit.ariel_chestplate": "Colete Tatico do Ariel",
+  "item.ariel_unit.ariel_leggings": "Calca Tatica do Ariel",
+  "item.ariel_unit.ariel_boots": "Botas Taticas do Ariel",
+  "item.ariel_unit.ariel_motorcycle": "Moto Trail do Ariel",
+  "entity.ariel_unit.ariel_motorcycle": "Moto Trail do Ariel",
+  "item.ariel_unit.gas_can_5l": "Galao de Gasolina (5 L)",
+  "item.ariel_unit.gas_can_10l": "Galao de Gasolina (10 L)",
+  "item.ariel_unit.gas_can_20l": "Galao de Gasolina (20 L)"
+}

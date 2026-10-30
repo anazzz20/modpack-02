@@ -1,0 +1,14 @@
+{
+  "item.ariel_unit.ariel_knife": "Ariel Combat Knife",
+  "item.ariel_unit.ariel_bow": "Ariel Tactical Bow",
+  "item.ariel_unit.ariel_glock": "Ariel Glock",
+  "item.ariel_unit.ariel_mask": "Ariel Mask",
+  "item.ariel_unit.ariel_chestplate": "Ariel Tactical Vest",
+  "item.ariel_unit.ariel_leggings": "Ariel Tactical Pants",
+  "item.ariel_unit.ariel_boots": "Ariel Tactical Boots",
+  "item.ariel_unit.ariel_motorcycle": "Ariel Trail Motorcycle",
+  "entity.ariel_unit.ariel_motorcycle": "Ariel Trail Motorcycle",
+  "item.ariel_unit.gas_can_5l": "Gas Can (5 L)",
+  "item.ariel_unit.gas_can_10l": "Gas Can (10 L)",
+  "item.ariel_unit.gas_can_20l": "Gas Can (20 L)"
+}
